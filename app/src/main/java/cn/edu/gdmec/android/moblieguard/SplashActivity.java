@@ -10,5 +10,6 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         System.out.print("你好！");
+        System.out.print("sha！");
     }
 }
