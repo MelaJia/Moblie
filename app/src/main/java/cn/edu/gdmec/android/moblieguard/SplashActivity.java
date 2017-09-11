@@ -12,5 +12,6 @@ public class SplashActivity extends AppCompatActivity {
         System.out.print("你好！");
         System.out.print("sha！");
         System.out.println("lll");
+        System.out.println("222");
     }
 }
